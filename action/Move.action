@@ -62,6 +62,7 @@ int64 FollowJointTrajectory_INVALID_JOINTS=511
 int64 FollowJointTrajectory_OLD_HEADER_TIMESTAMP=512 
 int64 FollowJointTrajectory_PATH_TOLERANCE_VIOLATED=513 
 int64 FollowJointTrajectory_GOAL_TOLERANCE_VIOLATED=514 
+int64 ForceMonitor_OBJECT_PLACED=515
 
 # error codes and messages for each command
 int64[] error_codes
