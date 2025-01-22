@@ -23,6 +23,7 @@ set(MSG_FILES
   CollisionEntry.msg
   WorldBody.msg
   LinkName.msg
+  PointArray.msg
  )
 
 set(SRV_FILES
